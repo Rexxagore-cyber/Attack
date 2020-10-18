@@ -78,7 +78,7 @@ def usage():
 	print (''' \033[92m	Attack Server Script v.1 http://www.canyalcin.com/
 	It is the end user's responsibility to obey all applicable laws.
 	It is just for server testing script. Your ip is visible. \n
-	usage : python3 hammer.py [-s] [-p] [-t]
+	usage : python3 attack.py [-s] [-p] [-t]
 	-h : help
 	-s : server ip
 	-p : port default 80
